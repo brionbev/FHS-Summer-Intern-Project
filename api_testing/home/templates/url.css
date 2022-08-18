@@ -1,0 +1,35 @@
+html {
+    color: black;
+    background-color: lightgray;
+}
+h1 {
+    color: black;
+    font-size: 35px;
+    display: block;
+    text-align: center;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    color: blue;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    color: white;
+    text-decoration: underline;
+}
+
+a {
+    display: block;
+    margin-bottom: 3px;
+    cursor: pointer;
+    font-size: 19px;
+    text-align: center;
+}

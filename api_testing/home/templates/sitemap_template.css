@@ -1,0 +1,44 @@
+urlset {
+    color: black;
+    margin: 2em 1em;
+    background-color: white;
+}
+heading {
+    color: black;
+    font-size: 30px;
+    font-family: "Verdana", Times, sans-serif;
+    display: block;
+    margin-bottom: 10px;
+}
+
+/* unvisited link */
+url:link {
+    color: red;
+  }
+  
+  /* visited link */
+  url:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  url:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  url:active {
+    color: blue;
+  }
+
+  url{
+    cursor: pointer;
+  }
+
+  urls {
+    display: block;
+    font-family: "Verdana", Times, sans-serif;
+    margin-bottom: 5px;
+}
+
+

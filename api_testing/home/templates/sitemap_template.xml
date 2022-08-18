@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<<<<<<< HEAD
+<?xml-stylesheet type="text/css" href="sitemap_template.css"?>
+
+<urlset xmlns:xlink="http://www.w3.org/1999/xlink">
+<heading> Url's for Data </heading>    
+
+     <urls xlink:type="simple" xlink:href="http://localhost:5001/encoding/anonymized_digital_voice" xlink:show="new" xlink:actuate="onRequest">
+     Anonymized Digital Voice
+     </urls>
+    
+     <urls xlink:type="simple" xlink:href="http://localhost:5001/encoding/dementia_review" xlink:show="new" xlink:actuate="onRequest">
+     Dementia Review
+     </urls>
+    
+     <urls xlink:type="simple" xlink:href="http://localhost:5001/encoding/education" xlink:show="new" xlink:actuate="onRequest">
+     Education
+     </urls>
+    
+     <urls xlink:type="simple" xlink:href="http://localhost:5001/encoding/race_sex" xlink:show="new" xlink:actuate="onRequest">
+     Race/Sex
+     </urls>
+    
+     <urls xlink:type="simple" xlink:href="http://localhost:5001/encoding/digital_voice" xlink:show="new" xlink:actuate="onRequest">
+     Digital Voice
+     </urls>
+    
+     <urls xlink:type="simple" xlink:href="http://localhost:5001/encoding/apoe" xlink:show="new" xlink:actuate="onRequest">
+     APOE
+     </urls>
+    
+     <urls xlink:type="simple" xlink:href="http://localhost:5001/encoding/dcdt" xlink:show="new" xlink:actuate="onRequest">
+     DCDT
+     </urls>
+    
+     <urls xlink:type="simple" xlink:href="http://localhost:5001/encoding/dnp" xlink:show="new" xlink:actuate="onRequest">
+     DNP
+     </urls>
+
+     <urls xlink:type="simple" xlink:href="http://localhost:5001/encoding/mri" xlink:show="new" xlink:actuate="onRequest">
+     MRI
+     </urls>
+    
+     <urls xlink:type="simple" xlink:href="http://localhost:5001/encoding/pib" xlink:show="new" xlink:actuate="onRequest">
+     PIB
+     </urls>
+    
+     <urls xlink:type="simple" xlink:href="http://localhost:5001/encoding/tau" xlink:show="new" xlink:actuate="onRequest">
+     TAU
+     </urls>
+    
+     <urls xlink:type="simple" xlink:href="http://localhost:5001/encoding/np" xlink:show="new" xlink:actuate="onRequest">
+     Neuropath
+     </urls>
+    
+     <urls xlink:type="simple" xlink:href="http://localhost:5001/encoding/clear" xlink:show="new" xlink:actuate="onRequest">
+     Clear
+     </urls>
+    
+     <urls xlink:type="simple" xlink:href="http://localhost:5001" xlink:show="new" xlink:actuate="onRequest">
+     http://localhost:5001
+     </urls>
+</urlset>
