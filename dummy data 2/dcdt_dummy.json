@@ -1,0 +1,89 @@
+{
+    "FHS_ES00011": [
+        {
+            "cohort": "Generation Four",
+            "date": "20200426",
+            "dummy_id": "FHS_ES00011"
+        },
+        {
+            "cohort": "Generation Four",
+            "date": "20210119",
+            "dummy_id": "FHS_ES00011"
+        }
+    ],
+    "FHS_ES00027": [
+        {
+            "cohort": "Generation Two",
+            "date": "20190221",
+            "dummy_id": "FHS_ES00027"
+        }
+    ],
+    "FHS_ES00045": [
+        {
+            "cohort": "Generation Four",
+            "date": "20210718",
+            "dummy_id": "FHS_ES00045"
+        }
+    ],
+    "FHS_ES00056": [
+        {
+            "cohort": "Generation Two",
+            "date": "20211114",
+            "dummy_id": "FHS_ES00056"
+        }
+    ],
+    "FHS_ES00068": [
+        {
+            "cohort": "Generation Two",
+            "date": "20210403",
+            "dummy_id": "FHS_ES00068"
+        },
+        {
+            "cohort": "Generation Two",
+            "date": "20211229",
+            "dummy_id": "FHS_ES00068"
+        }
+    ],
+    "FHS_ES00078": [
+        {
+            "cohort": "Generation Five",
+            "date": "20200509",
+            "dummy_id": "FHS_ES00078"
+        }
+    ],
+    "FHS_ES00113": [
+        {
+            "cohort": "Generation Four",
+            "date": "20210810",
+            "dummy_id": "FHS_ES00113"
+        }
+    ],
+    "FHS_ES00201": [
+        {
+            "cohort": "Generation Two",
+            "date": "20200912",
+            "dummy_id": "FHS_ES00201"
+        }
+    ],
+    "FHS_ES00212": [
+        {
+            "cohort": "Generation Three",
+            "date": "20210728",
+            "dummy_id": "FHS_ES00212"
+        }
+    ],
+    "FHS_ES00234": [
+        {
+            "cohort": "Generation Five",
+            "date": "20200919",
+            "dummy_id": "FHS_ES00234"
+        }
+    ],
+    "FHS_ES00289": [
+        {
+            "cohort": "Generation Four",
+            "date": "20211015",
+            "dummy_id": "FHS_ES00289"
+        }
+    ]
+}

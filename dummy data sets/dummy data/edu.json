@@ -1,0 +1,1565 @@
+{
+    "FHS_ES00079": {
+        "cohort": "Generation One",
+        "dummy_id": "FHS_ES00079",
+        "edu_data": {
+            "20200311": {
+                "Educg": "0",
+                "date": "20200311",
+                "education_b1": "1",
+                "education_b2": "10",
+                "handedness": "3"
+            },
+            "20200321": {
+                "Educg": "1",
+                "date": "20200321",
+                "education_b1": "10",
+                "education_b2": "11",
+                "handedness": "3"
+            },
+            "20200906": {
+                "Educg": "3",
+                "date": "20200906",
+                "education_b1": "15",
+                "education_b2": "2",
+                "handedness": "1"
+            },
+            "20210214": {
+                "Educg": "1",
+                "date": "20210214",
+                "education_b1": "6",
+                "education_b2": "5",
+                "handedness": "1"
+            },
+            "20210318": {
+                "Educg": "1",
+                "date": "20210318",
+                "education_b1": "11",
+                "education_b2": "15",
+                "handedness": "1"
+            },
+            "20210422": {
+                "Educg": "0",
+                "date": "20210422",
+                "education_b1": "",
+                "education_b2": "",
+                "handedness": "3"
+            },
+            "20210625": {
+                "Educg": "3",
+                "date": "20210625",
+                "education_b1": "10",
+                "education_b2": "0",
+                "handedness": "1"
+            },
+            "20211223": {
+                "Educg": "",
+                "date": "20211223",
+                "education_b1": "6",
+                "education_b2": "",
+                "handedness": "1"
+            }
+        }
+    },
+    "FHS_ES04291": {
+        "cohort": "Generation Two",
+        "dummy_id": "FHS_ES04291",
+        "edu_data": {
+            "20200121": {
+                "Educg": "",
+                "date": "20200121",
+                "education_b1": "14",
+                "education_b2": "1",
+                "handedness": "1"
+            },
+            "20210113": {
+                "Educg": "2",
+                "date": "20210113",
+                "education_b1": "3",
+                "education_b2": "9",
+                "handedness": "2"
+            },
+            "20210209": {
+                "Educg": "2",
+                "date": "20210209",
+                "education_b1": "5",
+                "education_b2": "9",
+                "handedness": "2"
+            },
+            "20210223": {
+                "Educg": "2",
+                "date": "20210223",
+                "education_b1": "1",
+                "education_b2": "1",
+                "handedness": "3"
+            },
+            "20210424": {
+                "Educg": "",
+                "date": "20210424",
+                "education_b1": "2",
+                "education_b2": "8",
+                "handedness": "3"
+            },
+            "20211226": {
+                "Educg": "",
+                "date": "20211226",
+                "education_b1": "11",
+                "education_b2": "13",
+                "handedness": "3"
+            }
+        }
+    },
+    "FHS_ES08054": {
+        "cohort": "Generation Two",
+        "dummy_id": "FHS_ES08054",
+        "edu_data": {
+            "20200123": {
+                "Educg": "1",
+                "date": "20200123",
+                "education_b1": "9",
+                "education_b2": "0",
+                "handedness": "2"
+            },
+            "20200129": {
+                "Educg": "2",
+                "date": "20200129",
+                "education_b1": "11",
+                "education_b2": "8",
+                "handedness": "3"
+            },
+            "20210223": {
+                "Educg": "1",
+                "date": "20210223",
+                "education_b1": "13",
+                "education_b2": "11",
+                "handedness": "3"
+            },
+            "20210409": {
+                "Educg": "3",
+                "date": "20210409",
+                "education_b1": "3",
+                "education_b2": "8",
+                "handedness": "2"
+            },
+            "20210627": {
+                "Educg": "1",
+                "date": "20210627",
+                "education_b1": "4",
+                "education_b2": "8",
+                "handedness": "1"
+            },
+            "20210901": {
+                "Educg": "1",
+                "date": "20210901",
+                "education_b1": "15",
+                "education_b2": "9",
+                "handedness": "1"
+            },
+            "20211029": {
+                "Educg": "2",
+                "date": "20211029",
+                "education_b1": "11",
+                "education_b2": "10",
+                "handedness": "2"
+            },
+            "20211112": {
+                "Educg": "3",
+                "date": "20211112",
+                "education_b1": "4",
+                "education_b2": "1",
+                "handedness": "3"
+            }
+        }
+    },
+    "FHS_ES09390": {
+        "cohort": "Generation Three",
+        "dummy_id": "FHS_ES09390",
+        "edu_data": {
+            "20200229": {
+                "Educg": "",
+                "date": "20200229",
+                "education_b1": "",
+                "education_b2": "14",
+                "handedness": "2"
+            },
+            "20201205": {
+                "Educg": "2",
+                "date": "20201205",
+                "education_b1": "7",
+                "education_b2": "6",
+                "handedness": "1"
+            }
+        }
+    },
+    "FHS_ES09551": {
+        "cohort": "Generation Two",
+        "dummy_id": "FHS_ES09551",
+        "edu_data": {
+            "20200614": {
+                "Educg": "2",
+                "date": "20200614",
+                "education_b1": "14",
+                "education_b2": "1",
+                "handedness": "3"
+            },
+            "20200720": {
+                "Educg": "",
+                "date": "20200720",
+                "education_b1": "0",
+                "education_b2": "",
+                "handedness": "2"
+            },
+            "20200823": {
+                "Educg": "0",
+                "date": "20200823",
+                "education_b1": "4",
+                "education_b2": "15",
+                "handedness": "2"
+            },
+            "20210204": {
+                "Educg": "3",
+                "date": "20210204",
+                "education_b1": "",
+                "education_b2": "11",
+                "handedness": "3"
+            },
+            "20210404": {
+                "Educg": "1",
+                "date": "20210404",
+                "education_b1": "14",
+                "education_b2": "6",
+                "handedness": "3"
+            },
+            "20210416": {
+                "Educg": "2",
+                "date": "20210416",
+                "education_b1": "14",
+                "education_b2": "3",
+                "handedness": "3"
+            },
+            "20211219": {
+                "Educg": "3",
+                "date": "20211219",
+                "education_b1": "4",
+                "education_b2": "10",
+                "handedness": "2"
+            }
+        }
+    },
+    "FHS_ES10627": {
+        "cohort": "Generation Two",
+        "dummy_id": "FHS_ES10627",
+        "edu_data": {
+            "20200713": {
+                "Educg": "0",
+                "date": "20200713",
+                "education_b1": "15",
+                "education_b2": "10",
+                "handedness": "1"
+            },
+            "20200819": {
+                "Educg": "1",
+                "date": "20200819",
+                "education_b1": "10",
+                "education_b2": "12",
+                "handedness": "2"
+            },
+            "20210809": {
+                "Educg": "0",
+                "date": "20210809",
+                "education_b1": "13",
+                "education_b2": "3",
+                "handedness": "3"
+            }
+        }
+    },
+    "FHS_ES11602": {
+        "cohort": "Generation Three",
+        "dummy_id": "FHS_ES11602",
+        "edu_data": {
+            "20210417": {
+                "Educg": "",
+                "date": "20210417",
+                "education_b1": "",
+                "education_b2": "",
+                "handedness": "2"
+            },
+            "20210601": {
+                "Educg": "0",
+                "date": "20210601",
+                "education_b1": "",
+                "education_b2": "0",
+                "handedness": "2"
+            }
+        }
+    },
+    "FHS_ES13724": {
+        "cohort": "Generation Two",
+        "dummy_id": "FHS_ES13724",
+        "edu_data": {
+            "20200801": {
+                "Educg": "3",
+                "date": "20200801",
+                "education_b1": "2",
+                "education_b2": "7",
+                "handedness": "3"
+            },
+            "20201127": {
+                "Educg": "3",
+                "date": "20201127",
+                "education_b1": "6",
+                "education_b2": "8",
+                "handedness": "3"
+            },
+            "20210812": {
+                "Educg": "3",
+                "date": "20210812",
+                "education_b1": "15",
+                "education_b2": "14",
+                "handedness": "1"
+            },
+            "20210831": {
+                "Educg": "0",
+                "date": "20210831",
+                "education_b1": "13",
+                "education_b2": "14",
+                "handedness": "3"
+            }
+        }
+    },
+    "FHS_ES15042": {
+        "cohort": "Generation One",
+        "dummy_id": "FHS_ES15042",
+        "edu_data": {
+            "20200313": {
+                "Educg": "0",
+                "date": "20200313",
+                "education_b1": "",
+                "education_b2": "7",
+                "handedness": "2"
+            },
+            "20201110": {
+                "Educg": "1",
+                "date": "20201110",
+                "education_b1": "1",
+                "education_b2": "3",
+                "handedness": "2"
+            }
+        }
+    },
+    "FHS_ES17684": {
+        "cohort": "Generation Two",
+        "dummy_id": "FHS_ES17684",
+        "edu_data": {
+            "20200327": {
+                "Educg": "3",
+                "date": "20200327",
+                "education_b1": "4",
+                "education_b2": "15",
+                "handedness": "2"
+            },
+            "20200530": {
+                "Educg": "3",
+                "date": "20200530",
+                "education_b1": "4",
+                "education_b2": "15",
+                "handedness": "2"
+            },
+            "20200829": {
+                "Educg": "",
+                "date": "20200829",
+                "education_b1": "5",
+                "education_b2": "4",
+                "handedness": "3"
+            },
+            "20201008": {
+                "Educg": "3",
+                "date": "20201008",
+                "education_b1": "15",
+                "education_b2": "11",
+                "handedness": "1"
+            }
+        }
+    },
+    "FHS_ES20227": {
+        "cohort": "Generation Three",
+        "dummy_id": "FHS_ES20227",
+        "edu_data": {
+            "20200327": {
+                "Educg": "1",
+                "date": "20200327",
+                "education_b1": "9",
+                "education_b2": "14",
+                "handedness": "1"
+            },
+            "20200917": {
+                "Educg": "0",
+                "date": "20200917",
+                "education_b1": "",
+                "education_b2": "7",
+                "handedness": "1"
+            },
+            "20201201": {
+                "Educg": "0",
+                "date": "20201201",
+                "education_b1": "15",
+                "education_b2": "0",
+                "handedness": "1"
+            },
+            "20210205": {
+                "Educg": "2",
+                "date": "20210205",
+                "education_b1": "11",
+                "education_b2": "11",
+                "handedness": "3"
+            },
+            "20210323": {
+                "Educg": "3",
+                "date": "20210323",
+                "education_b1": "",
+                "education_b2": "8",
+                "handedness": "2"
+            }
+        }
+    },
+    "FHS_ES28885": {
+        "cohort": "Generation Two",
+        "dummy_id": "FHS_ES28885",
+        "edu_data": {
+            "20211117": {
+                "Educg": "0",
+                "date": "20211117",
+                "education_b1": "4",
+                "education_b2": "2",
+                "handedness": "2"
+            }
+        }
+    },
+    "FHS_ES34461": {
+        "cohort": "Generation Three",
+        "dummy_id": "FHS_ES34461",
+        "edu_data": {
+            "20200401": {
+                "Educg": "",
+                "date": "20200401",
+                "education_b1": "5",
+                "education_b2": "3",
+                "handedness": "3"
+            },
+            "20201201": {
+                "Educg": "",
+                "date": "20201201",
+                "education_b1": "11",
+                "education_b2": "8",
+                "handedness": "3"
+            },
+            "20201223": {
+                "Educg": "2",
+                "date": "20201223",
+                "education_b1": "5",
+                "education_b2": "7",
+                "handedness": "2"
+            }
+        }
+    },
+    "FHS_ES36816": {
+        "cohort": "Generation Three",
+        "dummy_id": "FHS_ES36816",
+        "edu_data": {
+            "20201209": {
+                "Educg": "0",
+                "date": "20201209",
+                "education_b1": "11",
+                "education_b2": "11",
+                "handedness": "2"
+            },
+            "20211019": {
+                "Educg": "0",
+                "date": "20211019",
+                "education_b1": "14",
+                "education_b2": "12",
+                "handedness": "3"
+            }
+        }
+    },
+    "FHS_ES40182": {
+        "cohort": "Generation One",
+        "dummy_id": "FHS_ES40182",
+        "edu_data": {
+            "20200315": {
+                "Educg": "1",
+                "date": "20200315",
+                "education_b1": "0",
+                "education_b2": "9",
+                "handedness": "3"
+            }
+        }
+    },
+    "FHS_ES47110": {
+        "cohort": "Generation One",
+        "dummy_id": "FHS_ES47110",
+        "edu_data": {
+            "20200408": {
+                "Educg": "2",
+                "date": "20200408",
+                "education_b1": "3",
+                "education_b2": "13",
+                "handedness": "2"
+            },
+            "20200415": {
+                "Educg": "0",
+                "date": "20200415",
+                "education_b1": "4",
+                "education_b2": "11",
+                "handedness": "2"
+            },
+            "20201023": {
+                "Educg": "1",
+                "date": "20201023",
+                "education_b1": "6",
+                "education_b2": "11",
+                "handedness": "3"
+            },
+            "20210428": {
+                "Educg": "3",
+                "date": "20210428",
+                "education_b1": "8",
+                "education_b2": "3",
+                "handedness": "3"
+            },
+            "20210804": {
+                "Educg": "",
+                "date": "20210804",
+                "education_b1": "12",
+                "education_b2": "1",
+                "handedness": "3"
+            }
+        }
+    },
+    "FHS_ES49102": {
+        "cohort": "Generation One",
+        "dummy_id": "FHS_ES49102",
+        "edu_data": {
+            "20200201": {
+                "Educg": "3",
+                "date": "20200201",
+                "education_b1": "13",
+                "education_b2": "11",
+                "handedness": "2"
+            },
+            "20200614": {
+                "Educg": "3",
+                "date": "20200614",
+                "education_b1": "8",
+                "education_b2": "3",
+                "handedness": "1"
+            },
+            "20210109": {
+                "Educg": "3",
+                "date": "20210109",
+                "education_b1": "10",
+                "education_b2": "13",
+                "handedness": "2"
+            },
+            "20210116": {
+                "Educg": "3",
+                "date": "20210116",
+                "education_b1": "8",
+                "education_b2": "13",
+                "handedness": "3"
+            },
+            "20210821": {
+                "Educg": "",
+                "date": "20210821",
+                "education_b1": "4",
+                "education_b2": "14",
+                "handedness": "2"
+            },
+            "20211129": {
+                "Educg": "",
+                "date": "20211129",
+                "education_b1": "15",
+                "education_b2": "2",
+                "handedness": "2"
+            }
+        }
+    },
+    "FHS_ES49271": {
+        "cohort": "Generation Two",
+        "dummy_id": "FHS_ES49271",
+        "edu_data": {
+            "20200125": {
+                "Educg": "2",
+                "date": "20200125",
+                "education_b1": "13",
+                "education_b2": "8",
+                "handedness": "1"
+            },
+            "20200920": {
+                "Educg": "1",
+                "date": "20200920",
+                "education_b1": "5",
+                "education_b2": "10",
+                "handedness": "3"
+            },
+            "20210228": {
+                "Educg": "1",
+                "date": "20210228",
+                "education_b1": "15",
+                "education_b2": "5",
+                "handedness": "3"
+            },
+            "20210622": {
+                "Educg": "3",
+                "date": "20210622",
+                "education_b1": "11",
+                "education_b2": "9",
+                "handedness": "2"
+            },
+            "20211110": {
+                "Educg": "0",
+                "date": "20211110",
+                "education_b1": "6",
+                "education_b2": "14",
+                "handedness": "3"
+            }
+        }
+    },
+    "FHS_ES50137": {
+        "cohort": "Generation Two",
+        "dummy_id": "FHS_ES50137",
+        "edu_data": {
+            "20200905": {
+                "Educg": "1",
+                "date": "20200905",
+                "education_b1": "11",
+                "education_b2": "0",
+                "handedness": "3"
+            },
+            "20201015": {
+                "Educg": "1",
+                "date": "20201015",
+                "education_b1": "13",
+                "education_b2": "13",
+                "handedness": "1"
+            },
+            "20210417": {
+                "Educg": "1",
+                "date": "20210417",
+                "education_b1": "3",
+                "education_b2": "",
+                "handedness": "3"
+            },
+            "20211104": {
+                "Educg": "2",
+                "date": "20211104",
+                "education_b1": "2",
+                "education_b2": "5",
+                "handedness": "3"
+            },
+            "20211210": {
+                "Educg": "1",
+                "date": "20211210",
+                "education_b1": "2",
+                "education_b2": "2",
+                "handedness": "3"
+            }
+        }
+    },
+    "FHS_ES50873": {
+        "cohort": "Generation Two",
+        "dummy_id": "FHS_ES50873",
+        "edu_data": {
+            "20200110": {
+                "Educg": "1",
+                "date": "20200110",
+                "education_b1": "5",
+                "education_b2": "10",
+                "handedness": "1"
+            },
+            "20200316": {
+                "Educg": "1",
+                "date": "20200316",
+                "education_b1": "8",
+                "education_b2": "14",
+                "handedness": "2"
+            },
+            "20201118": {
+                "Educg": "",
+                "date": "20201118",
+                "education_b1": "8",
+                "education_b2": "3",
+                "handedness": "3"
+            },
+            "20210305": {
+                "Educg": "0",
+                "date": "20210305",
+                "education_b1": "1",
+                "education_b2": "10",
+                "handedness": "3"
+            },
+            "20211215": {
+                "Educg": "",
+                "date": "20211215",
+                "education_b1": "8",
+                "education_b2": "1",
+                "handedness": "2"
+            }
+        }
+    },
+    "FHS_ES51192": {
+        "cohort": "Generation Three",
+        "dummy_id": "FHS_ES51192",
+        "edu_data": {
+            "20200205": {
+                "Educg": "0",
+                "date": "20200205",
+                "education_b1": "12",
+                "education_b2": "7",
+                "handedness": "1"
+            },
+            "20200330": {
+                "Educg": "0",
+                "date": "20200330",
+                "education_b1": "12",
+                "education_b2": "4",
+                "handedness": "3"
+            },
+            "20200625": {
+                "Educg": "",
+                "date": "20200625",
+                "education_b1": "4",
+                "education_b2": "5",
+                "handedness": "2"
+            },
+            "20210228": {
+                "Educg": "2",
+                "date": "20210228",
+                "education_b1": "10",
+                "education_b2": "5",
+                "handedness": "2"
+            },
+            "20210703": {
+                "Educg": "",
+                "date": "20210703",
+                "education_b1": "6",
+                "education_b2": "",
+                "handedness": "3"
+            },
+            "20211023": {
+                "Educg": "2",
+                "date": "20211023",
+                "education_b1": "5",
+                "education_b2": "7",
+                "handedness": "1"
+            },
+            "20211107": {
+                "Educg": "0",
+                "date": "20211107",
+                "education_b1": "2",
+                "education_b2": "6",
+                "handedness": "3"
+            },
+            "20211214": {
+                "Educg": "1",
+                "date": "20211214",
+                "education_b1": "14",
+                "education_b2": "5",
+                "handedness": "3"
+            }
+        }
+    },
+    "FHS_ES52975": {
+        "cohort": "Generation Three",
+        "dummy_id": "FHS_ES52975",
+        "edu_data": {
+            "20200229": {
+                "Educg": "",
+                "date": "20200229",
+                "education_b1": "9",
+                "education_b2": "14",
+                "handedness": "1"
+            },
+            "20200531": {
+                "Educg": "1",
+                "date": "20200531",
+                "education_b1": "7",
+                "education_b2": "9",
+                "handedness": "3"
+            },
+            "20200804": {
+                "Educg": "",
+                "date": "20200804",
+                "education_b1": "14",
+                "education_b2": "11",
+                "handedness": "3"
+            },
+            "20201112": {
+                "Educg": "1",
+                "date": "20201112",
+                "education_b1": "15",
+                "education_b2": "0",
+                "handedness": "3"
+            },
+            "20210212": {
+                "Educg": "1",
+                "date": "20210212",
+                "education_b1": "8",
+                "education_b2": "10",
+                "handedness": "3"
+            },
+            "20210306": {
+                "Educg": "1",
+                "date": "20210306",
+                "education_b1": "4",
+                "education_b2": "10",
+                "handedness": "2"
+            }
+        }
+    },
+    "FHS_ES53361": {
+        "cohort": "Generation Two",
+        "dummy_id": "FHS_ES53361",
+        "edu_data": {
+            "20200821": {
+                "Educg": "0",
+                "date": "20200821",
+                "education_b1": "1",
+                "education_b2": "8",
+                "handedness": "3"
+            },
+            "20210203": {
+                "Educg": "",
+                "date": "20210203",
+                "education_b1": "0",
+                "education_b2": "3",
+                "handedness": "2"
+            }
+        }
+    },
+    "FHS_ES56666": {
+        "cohort": "Generation Three",
+        "dummy_id": "FHS_ES56666",
+        "edu_data": {
+            "20200104": {
+                "Educg": "0",
+                "date": "20200104",
+                "education_b1": "7",
+                "education_b2": "2",
+                "handedness": "1"
+            },
+            "20200203": {
+                "Educg": "2",
+                "date": "20200203",
+                "education_b1": "10",
+                "education_b2": "4",
+                "handedness": "1"
+            },
+            "20200403": {
+                "Educg": "",
+                "date": "20200403",
+                "education_b1": "8",
+                "education_b2": "7",
+                "handedness": "1"
+            },
+            "20200426": {
+                "Educg": "0",
+                "date": "20200426",
+                "education_b1": "3",
+                "education_b2": "9",
+                "handedness": "2"
+            },
+            "20200805": {
+                "Educg": "2",
+                "date": "20200805",
+                "education_b1": "15",
+                "education_b2": "15",
+                "handedness": "2"
+            },
+            "20210811": {
+                "Educg": "",
+                "date": "20210811",
+                "education_b1": "3",
+                "education_b2": "6",
+                "handedness": "3"
+            },
+            "20211127": {
+                "Educg": "",
+                "date": "20211127",
+                "education_b1": "11",
+                "education_b2": "10",
+                "handedness": "3"
+            }
+        }
+    },
+    "FHS_ES59776": {
+        "cohort": "Generation One",
+        "dummy_id": "FHS_ES59776",
+        "edu_data": {
+            "20200403": {
+                "Educg": "1",
+                "date": "20200403",
+                "education_b1": "5",
+                "education_b2": "3",
+                "handedness": "2"
+            },
+            "20200410": {
+                "Educg": "2",
+                "date": "20200410",
+                "education_b1": "6",
+                "education_b2": "6",
+                "handedness": "1"
+            },
+            "20200706": {
+                "Educg": "3",
+                "date": "20200706",
+                "education_b1": "9",
+                "education_b2": "2",
+                "handedness": "1"
+            },
+            "20210224": {
+                "Educg": "0",
+                "date": "20210224",
+                "education_b1": "11",
+                "education_b2": "",
+                "handedness": "1"
+            }
+        }
+    },
+    "FHS_ES60740": {
+        "cohort": "Generation Two",
+        "dummy_id": "FHS_ES60740",
+        "edu_data": {
+            "20200518": {
+                "Educg": "1",
+                "date": "20200518",
+                "education_b1": "14",
+                "education_b2": "8",
+                "handedness": "1"
+            },
+            "20200719": {
+                "Educg": "2",
+                "date": "20200719",
+                "education_b1": "11",
+                "education_b2": "7",
+                "handedness": "2"
+            },
+            "20210130": {
+                "Educg": "0",
+                "date": "20210130",
+                "education_b1": "3",
+                "education_b2": "14",
+                "handedness": "3"
+            },
+            "20210404": {
+                "Educg": "3",
+                "date": "20210404",
+                "education_b1": "8",
+                "education_b2": "6",
+                "handedness": "1"
+            },
+            "20210918": {
+                "Educg": "2",
+                "date": "20210918",
+                "education_b1": "12",
+                "education_b2": "8",
+                "handedness": "3"
+            },
+            "20211010": {
+                "Educg": "2",
+                "date": "20211010",
+                "education_b1": "15",
+                "education_b2": "3",
+                "handedness": "2"
+            }
+        }
+    },
+    "FHS_ES65440": {
+        "cohort": "Generation Three",
+        "dummy_id": "FHS_ES65440",
+        "edu_data": {
+            "20200206": {
+                "Educg": "0",
+                "date": "20200206",
+                "education_b1": "8",
+                "education_b2": "14",
+                "handedness": "1"
+            },
+            "20200305": {
+                "Educg": "1",
+                "date": "20200305",
+                "education_b1": "14",
+                "education_b2": "0",
+                "handedness": "2"
+            },
+            "20200320": {
+                "Educg": "1",
+                "date": "20200320",
+                "education_b1": "12",
+                "education_b2": "0",
+                "handedness": "2"
+            },
+            "20200617": {
+                "Educg": "0",
+                "date": "20200617",
+                "education_b1": "9",
+                "education_b2": "1",
+                "handedness": "2"
+            },
+            "20200729": {
+                "Educg": "",
+                "date": "20200729",
+                "education_b1": "8",
+                "education_b2": "15",
+                "handedness": "3"
+            },
+            "20200801": {
+                "Educg": "3",
+                "date": "20200801",
+                "education_b1": "10",
+                "education_b2": "6",
+                "handedness": "2"
+            },
+            "20210308": {
+                "Educg": "0",
+                "date": "20210308",
+                "education_b1": "11",
+                "education_b2": "1",
+                "handedness": "2"
+            },
+            "20210510": {
+                "Educg": "3",
+                "date": "20210510",
+                "education_b1": "13",
+                "education_b2": "4",
+                "handedness": "1"
+            }
+        }
+    },
+    "FHS_ES66348": {
+        "cohort": "Generation Three",
+        "dummy_id": "FHS_ES66348",
+        "edu_data": {
+            "20200205": {
+                "Educg": "2",
+                "date": "20200205",
+                "education_b1": "9",
+                "education_b2": "",
+                "handedness": "3"
+            },
+            "20200217": {
+                "Educg": "3",
+                "date": "20200217",
+                "education_b1": "1",
+                "education_b2": "15",
+                "handedness": "3"
+            },
+            "20200311": {
+                "Educg": "0",
+                "date": "20200311",
+                "education_b1": "2",
+                "education_b2": "5",
+                "handedness": "1"
+            },
+            "20200615": {
+                "Educg": "1",
+                "date": "20200615",
+                "education_b1": "14",
+                "education_b2": "1",
+                "handedness": "1"
+            },
+            "20200711": {
+                "Educg": "2",
+                "date": "20200711",
+                "education_b1": "6",
+                "education_b2": "9",
+                "handedness": "3"
+            },
+            "20210428": {
+                "Educg": "",
+                "date": "20210428",
+                "education_b1": "0",
+                "education_b2": "",
+                "handedness": "2"
+            },
+            "20210603": {
+                "Educg": "",
+                "date": "20210603",
+                "education_b1": "10",
+                "education_b2": "2",
+                "handedness": "1"
+            }
+        }
+    },
+    "FHS_ES67736": {
+        "cohort": "Generation One",
+        "dummy_id": "FHS_ES67736",
+        "edu_data": {
+            "20200701": {
+                "Educg": "0",
+                "date": "20200701",
+                "education_b1": "1",
+                "education_b2": "0",
+                "handedness": "1"
+            },
+            "20200726": {
+                "Educg": "",
+                "date": "20200726",
+                "education_b1": "3",
+                "education_b2": "3",
+                "handedness": "2"
+            }
+        }
+    },
+    "FHS_ES69096": {
+        "cohort": "Generation One",
+        "dummy_id": "FHS_ES69096",
+        "edu_data": {
+            "20200507": {
+                "Educg": "0",
+                "date": "20200507",
+                "education_b1": "7",
+                "education_b2": "",
+                "handedness": "3"
+            },
+            "20200508": {
+                "Educg": "",
+                "date": "20200508",
+                "education_b1": "3",
+                "education_b2": "15",
+                "handedness": "1"
+            },
+            "20200814": {
+                "Educg": "1",
+                "date": "20200814",
+                "education_b1": "13",
+                "education_b2": "9",
+                "handedness": "1"
+            },
+            "20200907": {
+                "Educg": "",
+                "date": "20200907",
+                "education_b1": "13",
+                "education_b2": "",
+                "handedness": "3"
+            },
+            "20200920": {
+                "Educg": "0",
+                "date": "20200920",
+                "education_b1": "15",
+                "education_b2": "1",
+                "handedness": "3"
+            },
+            "20200925": {
+                "Educg": "2",
+                "date": "20200925",
+                "education_b1": "12",
+                "education_b2": "6",
+                "handedness": "2"
+            },
+            "20211117": {
+                "Educg": "1",
+                "date": "20211117",
+                "education_b1": "5",
+                "education_b2": "10",
+                "handedness": "2"
+            }
+        }
+    },
+    "FHS_ES75391": {
+        "cohort": "Generation Two",
+        "dummy_id": "FHS_ES75391",
+        "edu_data": {
+            "20200714": {
+                "Educg": "2",
+                "date": "20200714",
+                "education_b1": "0",
+                "education_b2": "14",
+                "handedness": "3"
+            },
+            "20200814": {
+                "Educg": "",
+                "date": "20200814",
+                "education_b1": "12",
+                "education_b2": "7",
+                "handedness": "3"
+            },
+            "20201224": {
+                "Educg": "2",
+                "date": "20201224",
+                "education_b1": "10",
+                "education_b2": "4",
+                "handedness": "3"
+            }
+        }
+    },
+    "FHS_ES79733": {
+        "cohort": "Generation One",
+        "dummy_id": "FHS_ES79733",
+        "edu_data": {
+            "20210620": {
+                "Educg": "0",
+                "date": "20210620",
+                "education_b1": "2",
+                "education_b2": "0",
+                "handedness": "3"
+            },
+            "20211126": {
+                "Educg": "1",
+                "date": "20211126",
+                "education_b1": "10",
+                "education_b2": "13",
+                "handedness": "2"
+            }
+        }
+    },
+    "FHS_ES84775": {
+        "cohort": "Generation One",
+        "dummy_id": "FHS_ES84775",
+        "edu_data": {
+            "20200229": {
+                "Educg": "1",
+                "date": "20200229",
+                "education_b1": "10",
+                "education_b2": "15",
+                "handedness": "1"
+            },
+            "20200326": {
+                "Educg": "",
+                "date": "20200326",
+                "education_b1": "13",
+                "education_b2": "14",
+                "handedness": "2"
+            },
+            "20200718": {
+                "Educg": "3",
+                "date": "20200718",
+                "education_b1": "0",
+                "education_b2": "9",
+                "handedness": "1"
+            },
+            "20210523": {
+                "Educg": "1",
+                "date": "20210523",
+                "education_b1": "10",
+                "education_b2": "5",
+                "handedness": "1"
+            },
+            "20210529": {
+                "Educg": "1",
+                "date": "20210529",
+                "education_b1": "7",
+                "education_b2": "8",
+                "handedness": "3"
+            },
+            "20210614": {
+                "Educg": "",
+                "date": "20210614",
+                "education_b1": "15",
+                "education_b2": "8",
+                "handedness": "2"
+            },
+            "20210802": {
+                "Educg": "1",
+                "date": "20210802",
+                "education_b1": "1",
+                "education_b2": "9",
+                "handedness": "3"
+            }
+        }
+    },
+    "FHS_ES85308": {
+        "cohort": "Generation Two",
+        "dummy_id": "FHS_ES85308",
+        "edu_data": {
+            "20200216": {
+                "Educg": "0",
+                "date": "20200216",
+                "education_b1": "6",
+                "education_b2": "6",
+                "handedness": "1"
+            },
+            "20210414": {
+                "Educg": "2",
+                "date": "20210414",
+                "education_b1": "10",
+                "education_b2": "11",
+                "handedness": "2"
+            },
+            "20210530": {
+                "Educg": "0",
+                "date": "20210530",
+                "education_b1": "15",
+                "education_b2": "6",
+                "handedness": "2"
+            },
+            "20210611": {
+                "Educg": "3",
+                "date": "20210611",
+                "education_b1": "9",
+                "education_b2": "2",
+                "handedness": "3"
+            },
+            "20210813": {
+                "Educg": "2",
+                "date": "20210813",
+                "education_b1": "6",
+                "education_b2": "9",
+                "handedness": "2"
+            }
+        }
+    },
+    "FHS_ES86045": {
+        "cohort": "Generation Two",
+        "dummy_id": "FHS_ES86045",
+        "edu_data": {
+            "20200119": {
+                "Educg": "1",
+                "date": "20200119",
+                "education_b1": "14",
+                "education_b2": "4",
+                "handedness": "1"
+            },
+            "20200228": {
+                "Educg": "2",
+                "date": "20200228",
+                "education_b1": "4",
+                "education_b2": "13",
+                "handedness": "3"
+            },
+            "20200302": {
+                "Educg": "3",
+                "date": "20200302",
+                "education_b1": "12",
+                "education_b2": "11",
+                "handedness": "2"
+            },
+            "20200412": {
+                "Educg": "0",
+                "date": "20200412",
+                "education_b1": "7",
+                "education_b2": "",
+                "handedness": "2"
+            },
+            "20200531": {
+                "Educg": "0",
+                "date": "20200531",
+                "education_b1": "9",
+                "education_b2": "5",
+                "handedness": "2"
+            },
+            "20201008": {
+                "Educg": "3",
+                "date": "20201008",
+                "education_b1": "12",
+                "education_b2": "",
+                "handedness": "3"
+            },
+            "20210213": {
+                "Educg": "3",
+                "date": "20210213",
+                "education_b1": "3",
+                "education_b2": "11",
+                "handedness": "1"
+            },
+            "20211020": {
+                "Educg": "2",
+                "date": "20211020",
+                "education_b1": "8",
+                "education_b2": "6",
+                "handedness": "1"
+            }
+        }
+    },
+    "FHS_ES86806": {
+        "cohort": "Generation One",
+        "dummy_id": "FHS_ES86806",
+        "edu_data": {
+            "20200123": {
+                "Educg": "0",
+                "date": "20200123",
+                "education_b1": "6",
+                "education_b2": "6",
+                "handedness": "3"
+            },
+            "20200325": {
+                "Educg": "1",
+                "date": "20200325",
+                "education_b1": "10",
+                "education_b2": "0",
+                "handedness": "2"
+            },
+            "20200711": {
+                "Educg": "2",
+                "date": "20200711",
+                "education_b1": "0",
+                "education_b2": "0",
+                "handedness": "2"
+            },
+            "20201116": {
+                "Educg": "",
+                "date": "20201116",
+                "education_b1": "7",
+                "education_b2": "3",
+                "handedness": "3"
+            },
+            "20210302": {
+                "Educg": "3",
+                "date": "20210302",
+                "education_b1": "11",
+                "education_b2": "4",
+                "handedness": "1"
+            },
+            "20211106": {
+                "Educg": "2",
+                "date": "20211106",
+                "education_b1": "7",
+                "education_b2": "6",
+                "handedness": "3"
+            }
+        }
+    },
+    "FHS_ES88645": {
+        "cohort": "Generation Two",
+        "dummy_id": "FHS_ES88645",
+        "edu_data": {
+            "20200321": {
+                "Educg": "2",
+                "date": "20200321",
+                "education_b1": "7",
+                "education_b2": "0",
+                "handedness": "3"
+            },
+            "20200824": {
+                "Educg": "2",
+                "date": "20200824",
+                "education_b1": "14",
+                "education_b2": "2",
+                "handedness": "1"
+            },
+            "20201229": {
+                "Educg": "3",
+                "date": "20201229",
+                "education_b1": "0",
+                "education_b2": "0",
+                "handedness": "2"
+            },
+            "20210507": {
+                "Educg": "0",
+                "date": "20210507",
+                "education_b1": "13",
+                "education_b2": "2",
+                "handedness": "1"
+            },
+            "20210822": {
+                "Educg": "",
+                "date": "20210822",
+                "education_b1": "15",
+                "education_b2": "14",
+                "handedness": "1"
+            },
+            "20211017": {
+                "Educg": "0",
+                "date": "20211017",
+                "education_b1": "13",
+                "education_b2": "9",
+                "handedness": "3"
+            }
+        }
+    },
+    "FHS_ES92522": {
+        "cohort": "Generation Three",
+        "dummy_id": "FHS_ES92522",
+        "edu_data": {
+            "20200313": {
+                "Educg": "1",
+                "date": "20200313",
+                "education_b1": "10",
+                "education_b2": "11",
+                "handedness": "3"
+            },
+            "20200415": {
+                "Educg": "1",
+                "date": "20200415",
+                "education_b1": "2",
+                "education_b2": "1",
+                "handedness": "1"
+            },
+            "20201012": {
+                "Educg": "1",
+                "date": "20201012",
+                "education_b1": "6",
+                "education_b2": "11",
+                "handedness": "2"
+            },
+            "20211008": {
+                "Educg": "2",
+                "date": "20211008",
+                "education_b1": "3",
+                "education_b2": "10",
+                "handedness": "3"
+            }
+        }
+    },
+    "FHS_ES94690": {
+        "cohort": "Generation One",
+        "dummy_id": "FHS_ES94690",
+        "edu_data": {
+            "20200412": {
+                "Educg": "2",
+                "date": "20200412",
+                "education_b1": "12",
+                "education_b2": "13",
+                "handedness": "2"
+            },
+            "20200610": {
+                "Educg": "",
+                "date": "20200610",
+                "education_b1": "12",
+                "education_b2": "0",
+                "handedness": "2"
+            },
+            "20210224": {
+                "Educg": "2",
+                "date": "20210224",
+                "education_b1": "7",
+                "education_b2": "3",
+                "handedness": "2"
+            },
+            "20210805": {
+                "Educg": "0",
+                "date": "20210805",
+                "education_b1": "8",
+                "education_b2": "10",
+                "handedness": "3"
+            }
+        }
+    },
+    "FHS_ES95309": {
+        "cohort": "Generation Two",
+        "dummy_id": "FHS_ES95309",
+        "edu_data": {
+            "20200114": {
+                "Educg": "3",
+                "date": "20200114",
+                "education_b1": "2",
+                "education_b2": "12",
+                "handedness": "3"
+            },
+            "20200826": {
+                "Educg": "3",
+                "date": "20200826",
+                "education_b1": "6",
+                "education_b2": "8",
+                "handedness": "1"
+            },
+            "20210512": {
+                "Educg": "",
+                "date": "20210512",
+                "education_b1": "",
+                "education_b2": "8",
+                "handedness": "1"
+            }
+        }
+    }
+}

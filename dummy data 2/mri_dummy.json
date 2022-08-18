@@ -1,0 +1,117 @@
+{
+    "FHS_ES00025": [
+        {
+            "cohort": "Generation Five",
+            "date": "20190430",
+            "dummy_id": "FHS_ES00025"
+        },
+        {
+            "cohort": "Generation Five",
+            "date": "20200104",
+            "dummy_id": "FHS_ES00025"
+        },
+        {
+            "cohort": "Generation Five",
+            "date": "20200521",
+            "dummy_id": "FHS_ES00025"
+        },
+        {
+            "cohort": "Generation Five",
+            "date": "20210224",
+            "dummy_id": "FHS_ES00025"
+        }
+    ],
+    "FHS_ES00026": [
+        {
+            "cohort": "Generation Four",
+            "date": "20210324",
+            "dummy_id": "FHS_ES00026"
+        },
+        {
+            "cohort": "Generation Four",
+            "date": "20211212",
+            "dummy_id": "FHS_ES00026"
+        }
+    ],
+    "FHS_ES00056": [
+        {
+            "cohort": "Generation Two",
+            "date": "20190514",
+            "dummy_id": "FHS_ES00056"
+        },
+        {
+            "cohort": "Generation Two",
+            "date": "20200103",
+            "dummy_id": "FHS_ES00056"
+        }
+    ],
+    "FHS_ES00100": [
+        {
+            "cohort": "Generation Two",
+            "date": "20201216",
+            "dummy_id": "FHS_ES00100"
+        },
+        {
+            "cohort": "Generation Two",
+            "date": "20210331",
+            "dummy_id": "FHS_ES00100"
+        }
+    ],
+    "FHS_ES00101": [
+        {
+            "cohort": "Generation Three",
+            "date": "20190807",
+            "dummy_id": "FHS_ES00101"
+        }
+    ],
+    "FHS_ES00201": [
+        {
+            "cohort": "Generation Two",
+            "date": "20201225",
+            "dummy_id": "FHS_ES00201"
+        },
+        {
+            "cohort": "Generation Two",
+            "date": "20210404",
+            "dummy_id": "FHS_ES00201"
+        },
+        {
+            "cohort": "Generation Two",
+            "date": "20210809",
+            "dummy_id": "FHS_ES00201"
+        }
+    ],
+    "FHS_ES00223": [
+        {
+            "cohort": "Generation One",
+            "date": "20191019",
+            "dummy_id": "FHS_ES00223"
+        }
+    ],
+    "FHS_ES00289": [
+        {
+            "cohort": "Generation Four",
+            "date": "20200509",
+            "dummy_id": "FHS_ES00289"
+        }
+    ],
+    "FHS_ES00301": [
+        {
+            "cohort": "Generation One",
+            "date": "20190225",
+            "dummy_id": "FHS_ES00301"
+        },
+        {
+            "cohort": "Generation One",
+            "date": "20190901",
+            "dummy_id": "FHS_ES00301"
+        }
+    ],
+    "FHS_ES12346": [
+        {
+            "cohort": "Generation Four",
+            "date": "20201005",
+            "dummy_id": "FHS_ES12346"
+        }
+    ]
+}

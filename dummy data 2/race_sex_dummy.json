@@ -1,0 +1,72 @@
+{
+    "FHS_ES11111": {
+        "cohort": "Generation One",
+        "dob_str": "19190417",
+        "dummy_id": "FHS_ES11111",
+        "race1": "b'hispa'",
+        "sex": "1"
+    },
+    "FHS_ES11112": {
+        "cohort": "Generation Three",
+        "dob_str": "19750107",
+        "dummy_id": "FHS_ES11112",
+        "race1": "b'asian'",
+        "sex": "2"
+    },
+    "FHS_ES11113": {
+        "cohort": "Generation One",
+        "dob_str": "18960907",
+        "dummy_id": "FHS_ES11113",
+        "race1": "b'white'",
+        "sex": "2"
+    },
+    "FHS_ES11114": {
+        "cohort": "Generation Two",
+        "dob_str": "193600101",
+        "dummy_id": "FHS_ES11114",
+        "race1": "b'white'",
+        "sex": "1"
+    },
+    "FHS_ES11115": {
+        "cohort": "Generation Two",
+        "dob_str": "19510607",
+        "dummy_id": "FHS_ES11115",
+        "race1": "b'white'",
+        "sex": "2"
+    },
+    "FHS_ES11116": {
+        "cohort": "Generation Five",
+        "dob_str": "20010809",
+        "dummy_id": "FHS_ES11116",
+        "race1": "b'asian'",
+        "sex": "2"
+    },
+    "FHS_ES11117": {
+        "cohort": "Generation Three",
+        "dob_str": "19890407",
+        "dummy_id": "FHS_ES11117",
+        "race1": "b'white'",
+        "sex": "2"
+    },
+    "FHS_ES11118": {
+        "cohort": "Generation Two",
+        "dob_str": "19550707",
+        "dummy_id": "FHS_ES11118",
+        "race1": "b'asian'",
+        "sex": "2"
+    },
+    "FHS_ES11119": {
+        "cohort": "Generation Four",
+        "dob_str": "19990707",
+        "dummy_id": "FHS_ES11119",
+        "race1": "b'white'",
+        "sex": "1"
+    },
+    "FHS_ES11110": {
+        "cohort": "Generation Four",
+        "dob_str": "19960807",
+        "dummy_id": "FHS_ES11110",
+        "race1": "b'hispa'",
+        "sex": "1"
+    }
+}

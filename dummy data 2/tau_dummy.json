@@ -1,0 +1,72 @@
+{
+    "FHS_ES11119": {
+        "cohort": "Generation Four",
+        "date": "20210202",
+        "dummy_id": "FHS_ES11119",
+        "scan_type": "TAU",
+        "scanner_model": "GE"
+    },
+    "FHS_ES00080": {
+        "cohort": "Generation Three",
+        "date": "20210821",
+        "dummy_id": "FHS_ES00080",
+        "scan_type": "TAU",
+        "scanner_model": "HR"
+    },
+    "FHS_ES22222": {
+        "cohort": "Generation Three",
+        "date": "20210214",
+        "dummy_id": "FHS_ES22222",
+        "scan_type": "TAU",
+        "scanner_model": "GE"
+    },
+    "FHS_ES22223": {
+        "cohort": "Generation Three",
+        "date": "20200515",
+        "dummy_id": "FHS_ES22223",
+        "scan_type": "TAU",
+        "scanner_model": "GE"
+    },
+    "FHS_ES00101": {
+        "cohort": "Generation Three",
+        "date": "20201109",
+        "dummy_id": "FHS_ES00101",
+        "scan_type": "TAU",
+        "scanner_model": "GE"
+    },
+    "FHS_ES00073": {
+        "cohort": "Generation Two",
+        "date": "20200619",
+        "dummy_id": "FHS_ES00073",
+        "scan_type": "TAU",
+        "scanner_model": "HR"
+    },
+    "FHS_ES22229": {
+        "cohort": "Generation Three",
+        "date": "20201211",
+        "dummy_id": "FHS_ES22229",
+        "scan_type": "TAU",
+        "scanner_model": "GE"
+    },
+    "FHS_ES08989": {
+        "cohort": "Generation Five",
+        "date": "20211218",
+        "dummy_id": "FHS_ES08989",
+        "scan_type": "TAU",
+        "scanner_model": "HR"
+    },
+    "FHS_ES22225": {
+        "cohort": "Generation Three",
+        "date": "20201019",
+        "dummy_id": "FHS_ES22225",
+        "scan_type": "TAU",
+        "scanner_model": "GE"
+    },
+    "FHS_ES00034": {
+        "cohort": "Generation Four",
+        "date": "20210918",
+        "dummy_id": "FHS_ES00034",
+        "scan_type": "TAU",
+        "scanner_model": "GE"
+    }
+}

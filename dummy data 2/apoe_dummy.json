@@ -1,0 +1,57 @@
+{
+    "FHS_ES00011": {
+        "apoe": "23",
+        "cohort": "Generation Four",
+        "dummy_id": "FHS_ES00011"
+    },
+    "FHS_ES00025": {
+        "apoe": "33",
+        "cohort": "Generation Five",
+        "dummy_id": "FHS_ES00025"
+    },
+    "FHS_ES00032": {
+        "apoe": "33",
+        "cohort": "Generation Two",
+        "dummy_id": "FHS_ES00032"
+    },
+    "FHS_ES00034": {
+        "apoe": "24",
+        "cohort": "Generation Four",
+        "dummy_id": "FHS_ES00034"
+    },
+    "FHS_ES00041": {
+        "apoe": "23",
+        "cohort": "Generation Two",
+        "dummy_id": "FHS_ES00041"
+    },
+    "FHS_ES00052": {
+        "apoe": "23",
+        "cohort": "Generation One",
+        "dummy_id": "FHS_ES00052"
+    },
+    "FHS_ES00056": {
+        "apoe": "33",
+        "cohort": "Generation Two",
+        "dummy_id": "FHS_ES00056"
+    },
+    "FHS_ES00064": {
+        "apoe": "24",
+        "cohort": "Generation Two",
+        "dummy_id": "FHS_ES00064"
+    },
+    "FHS_ES00069": {
+        "apoe": "33",
+        "cohort": "Generation Five",
+        "dummy_id": "FHS_ES00069"
+    },
+    "FHS_ES00073": {
+        "apoe": "23",
+        "cohort": "Generation Two",
+        "dummy_id": "FHS_ES00073"
+    },
+    "FHS_ES00078": {
+        "apoe": "23",
+        "cohort": "Generation Five",
+        "dummy_id": "FHS_ES00078"
+    }
+}

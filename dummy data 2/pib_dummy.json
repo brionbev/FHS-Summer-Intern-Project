@@ -1,0 +1,72 @@
+{
+    "FHS_ES33333": {
+        "cohort": "Generation Two",
+        "date": "20211221",
+        "dummy_id": "FHS_ES33333",
+        "scan_type": "PIB",
+        "scanner_model": "HR"
+    },
+    "FHS_ES00346": {
+        "cohort": "Generation Four",
+        "date": "20200520",
+        "dummy_id": "FHS_ES00346",
+        "scan_type": "PIB",
+        "scanner_model": "HR"
+    },
+    "FHS_ES00671": {
+        "cohort": "Generation Four",
+        "date": "20200504",
+        "dummy_id": "FHS_ES00671",
+        "scan_type": "PIB",
+        "scanner_model": "GE"
+    },
+    "FHS_ES09876": {
+        "cohort": "Generation Three",
+        "date": "20190525",
+        "dummy_id": "FHS_ES09876",
+        "scan_type": "PIB",
+        "scanner_model": "HR"
+    },
+    "FHS_ES01996": {
+        "cohort": "Generation Five",
+        "date": "20211215",
+        "dummy_id": "FHS_ES01996",
+        "scan_type": "PIB",
+        "scanner_model": "GE"
+    },
+    "FHS_ES01998": {
+        "cohort": "Generation Five",
+        "date": "20210306",
+        "dummy_id": "FHS_ES01998",
+        "scan_type": "PIB",
+        "scanner_model": "GE"
+    },
+    "FHS_ES00201": {
+        "cohort": "Generation Two",
+        "date": "20201012",
+        "dummy_id": "FHS_ES00201",
+        "scan_type": "PIB",
+        "scanner_model": "GE"
+    },
+    "FHS_ES00073": {
+        "cohort": "Generation Two",
+        "date": "20191018",
+        "dummy_id": "FHS_ES00073",
+        "scan_type": "PIB",
+        "scanner_model": "HR"
+    },
+    "FHS_ES07890": {
+        "cohort": "Generation Three",
+        "date": "20200519",
+        "dummy_id": "FHS_ES07890",
+        "scan_type": "PIB",
+        "scanner_model": "HR"
+    },
+    "FHS_ES00052": {
+        "cohort": "Generation One",
+        "date": "20190521",
+        "dummy_id": "FHS_ES00052",
+        "scan_type": "PIB",
+        "scanner_model": "HR"
+    }
+}
